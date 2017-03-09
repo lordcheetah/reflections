@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Metadata files are added. The files are needed for their information.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area only has what will be commited. This way I can have files I'm not ready to commit (or will never commit) separate from the files I want to commit. I can commit things logically grouped together this way.
+
